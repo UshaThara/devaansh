@@ -1,4 +1,4 @@
-*
+**
 GitHub is a web-based platform primarily used for version control and collaborative software development. It is built on top of Git, an open-source version control system that allows developers to track changes in their code, collaborate with others, and manage software projects efficiently.
 
 ### Purpose of GitHub
